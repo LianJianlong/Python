@@ -1,2 +1,1 @@
-# Python
-Python learning and excersize
+# Multable 从基础做起
